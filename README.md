@@ -1,7 +1,12 @@
 # Ola_booking_Data_Analyst 
 
 Project Overview
-This project leverages Excel, SQL, and Power BI to transform raw ride data into actionable insights. The process includes data cleaning, detailed analysis, and interactive visualizations, offering a clear understanding of business performance and customer trends.
+This project leverages Excel, SQL, and Power BI to transform raw ride data into actionable insights. The process includes data cleaning, detailed analysis, and interactive visualizations, offering a clear understanding of business performance and customer trends.  
+
+Technologies Used
+Excel: Data cleaning and preprocessing.
+SQL: Structured queries for data analysis.
+Power BI: Interactive dashboard creation.  
 
 WORKFLOW  
 1 Data Cleaning (EXCEL)
@@ -31,6 +36,13 @@ Power BI Dashboard
   Main reasons for cancellations by customers and drivers.
   5. Ratings:  
   Customer and driver rating distribution.
+
+Key Visualizations
+  Line Charts: Show ride volume trends over time.
+  Pie Charts: Display the share of different booking statuses.
+  Bar Charts: Compare revenue by payment method and ride distances by vehicle type.
+  Scatter Plots: Highlight relationships between customer and driver ratings.
+  Histograms: Represent ride distance distribution by date.
 
 
 Dashboard Screenshots  
