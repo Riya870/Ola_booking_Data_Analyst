@@ -33,9 +33,14 @@ Power BI Dashboard
   Customer and driver rating distribution.
 
 
-Dashboard Screenshots
-![Overall Ride Volume Over Time](images/Page1.png)  
+Dashboard Screenshots  
+[Overall Ride Volume Over Time  
+![Overall Ride Volume Over Time](images/Page1.png)   
+Booking Status Breakdown  
 ![Booking Status Breakdown](images/Page2.png)  
+Revenue by Payment Method  
 ![Revenue by Payment Method](images/Page3.png)  
-![Top Vehicle Types by Ride Distance](images/Page4.png)  
+Top Vehicle Types by Ride Distance  
+![Top Vehicle Types by Ride Distance](images/Page4.png)   
+Customer vs. Driver Ratings  
 ![Customer vs. Driver Ratings](images/Page5.png)
