@@ -34,8 +34,8 @@ Power BI Dashboard
 
 
 Dashboard Screenshots
-![Overall Ride Volume Over Time](Image/Page1.png)  
-![Booking Status Breakdown](Image/Page2.png)  
-![Revenue by Payment Method](Image/Page3.png)  
-![Top Vehicle Types by Ride Distance](Image/Page4.png)  
-![Customer vs. Driver Ratings](Image/Page5.png)
+![Overall Ride Volume Over Time](Images/Page1.png)  
+![Booking Status Breakdown](Images/Page2.png)  
+![Revenue by Payment Method](Images/Page3.png)  
+![Top Vehicle Types by Ride Distance](Images/Page4.png)  
+![Customer vs. Driver Ratings](Images/Page5.png)
